@@ -1,4 +1,4 @@
-# vue-countdown
+# vue-countdown-hook
 
 countdown hook for vue3, 方便编写倒计时
 
@@ -9,8 +9,8 @@ countdown hook for vue3, 方便编写倒计时
 执行命令
 
 ```sh
-npm install --save vue-countdown
-yarn add vue-countdown
+npm install --save vue-countdown-hook
+yarn add vue-countdown-hook
 ```
 
 使用方法
