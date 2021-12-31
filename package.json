@@ -1,6 +1,6 @@
 {
-  "name": "vue-countdown",
-  "version": "0.0.1",
+  "name": "@vue/countdown",
+  "version": "1.0.0",
   "description": "countdown hook for vue3",
   "main": "dist/vue-countdown.esm.prod.js",
   "exports": {
