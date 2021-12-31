@@ -16,7 +16,7 @@ yarn add vue-countdown
 使用方法
 
 ```javascript
-import useCountdown form 'vue-countdown';
+import useCountdown form 'vue-countdown-hook';
 
 setup() {
     const { setCountdown, countdownObj, timeObj } = useCountdown();
@@ -42,7 +42,7 @@ setup() {
 完整使用方式
 
 ```javascript
-import useCountdown form 'vue-countdown';
+import useCountdown form 'vue-countdown-hook';
 
 setup() {
     const { countdown, setCountdown, countdownObj, timeObj, onFinish } = useCountdown();

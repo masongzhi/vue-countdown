@@ -50,7 +50,7 @@ function createEntry(config) {
   }
 
   if (isGlobalBuild) {
-    c.output['name'] = c.output['name'] || 'VueCountdown'
+    c.output['name'] = c.output['name'] || 'VueCountdownHook'
   }
 
   c.plugins.push(replace({
